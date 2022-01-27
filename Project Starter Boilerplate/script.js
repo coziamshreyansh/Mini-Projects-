@@ -1,1 +1,2 @@
-// js is diffrnt for diff projects
+
+// js is different for diff projects
